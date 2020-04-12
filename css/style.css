@@ -16,10 +16,22 @@
     justify-content: center;
     align-items: center;
     letter-spacing: 2px;
-    padding-top: 140px;
     font-size: 30px;
+}
+.text2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+    font-size: 30px;
+    margin-top: 184px;
 }
 .dota-2 {
     font-family: 'TrajanPro-Bold';
     color: white;
+    margin: 0;
+}
+img {
+    width: 100px;
+    padding: 49px 534px 20px 534px;
 }
