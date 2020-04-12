@@ -1,0 +1,25 @@
+.responsive {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+.dota2 {
+    margin-top: 20px;
+    background-image: url(../images/dota.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 613px;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+    padding-top: 140px;
+    font-size: 30px;
+}
+.dota-2 {
+    font-family: 'TrajanPro-Bold';
+    color: white;
+}

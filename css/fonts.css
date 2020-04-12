@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Trajan Pro Bold';
+    src: url('../fonts/Trajan Pro Bold.eot');
+    src: url('../fonts/Trajan Pro Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Trajan Pro Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'TrajanPro-Bold';
+    src: url('../fonts/TrajanPro-Bold.svg#TrajanPro-Bold') format('svg'),
+         url('../fonts/TrajanPro-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
